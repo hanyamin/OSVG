@@ -5,5 +5,5 @@ The training data of NTU RGBD++ is available at  https://pan.baidu.com/s/1QK78DC
 
 The testing data of NTU RGBD++ is available at https://pan.baidu.com/s/13fOU_pBFs40oQocq7x5ySQ?pwd=osvg
 
-The annotatio files are available at https://pan.baidu.com/s/1-eyb-44rD_E5KaHopLrfiw?pwd=osvg
+The annotatio files of NTU RGBD++ are available at https://pan.baidu.com/s/1-eyb-44rD_E5KaHopLrfiw?pwd=osvg
 
